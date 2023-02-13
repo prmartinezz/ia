@@ -14,7 +14,7 @@ const Navbar = () => {
             </div>
               <div className='gpt3__navbar-links_container'>
               <p><a href='#home'>Início</a></p>
-              <p><a href='#wgpt3'>O que é ChatGPT?</a></p>
+              <p><a href='#wgpt3'>O que é ChatGPT-3?</a></p>
               <p><a href='#possibility'>IA Aberta</a></p>
               <p><a href='#features'>Casos de Estudos</a></p>
               <p><a href='#blog'>Biblioteca</a></p>
@@ -33,7 +33,7 @@ const Navbar = () => {
         <div className="gpt3__navbar-menu_container scale-up-center">
           <div className="gpt3__navbar-menu_container-links">
               <p><a href='#home'>Início</a></p>
-              <p><a href='#wgpt3'>O que é ChatGPT?</a></p>
+              <p><a href='#wgpt3'>O que é ChatGPT-3?</a></p>
               <p><a href='#possibility'>IA Aberta</a></p>
               <p><a href='#features'>Casos de Estudos</a></p>
               <p><a href='#blog'>Biblioteca</a></p>
