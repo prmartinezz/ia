@@ -15,13 +15,13 @@ const Header = () => (
       </div>
 
       <div className="gpt3__header-content__people">
-        <img src={people} />
+        <img src={people} alt='people'/>
         <p>1.600 pessoas visitaram nas últimas 24 horas</p>
       </div>
     </div>
 
     <div className="gpt3__header-image">
-      <img src={ai} />
+      <img src={ai} alt='ai'/>
     </div>
   </div>
 );
